@@ -1,4 +1,4 @@
-# Patika Project
+
 ## Insertion sort Project
 Q1:[22,27,16,2,18,6] -> Insertion sort
 
@@ -15,3 +15,10 @@ Q2: [7,3,5,8,2,9,4,15,6] dizisinin Insertion sort a göre ilk 4 adımını yazı
 ##### step2 [2,3,4,8,7,9,5,15,6]
 ##### step3 [2,3,4,5,7,9,8,15,6]
 ##### step4 [2,3,4,5,6,9,8,15,7]
+
+## Merge Sort Project
+
+Q1:[16,21,11,8,12,22] -> Merge Sort
+
+- [16,21,11] - - - [8,12,22]
+- [16] - - [21,11] - - - [8,12] - - [22]
