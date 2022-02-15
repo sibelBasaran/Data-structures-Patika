@@ -18,7 +18,7 @@ Q2: [7,3,5,8,2,9,4,15,6] dizisinin Insertion sort a göre ilk 4 adımını yazı
 
 ## Merge Sort Project
 
-Q1:[16,21,11,8,12,22] -> Merge Sort
+Q1: [16,21,11,8,12,22] -> Merge Sort
 
 - [16,21,11] - - - [8,12,22]
 - [16] - - [21,11] - - - [8,12] - - [22]
@@ -27,3 +27,16 @@ Q1:[16,21,11,8,12,22] -> Merge Sort
 - [8,11,12,16,21,22]
 
 O(nlogn)
+
+## Binary-Search-Tree Proejct
+Q1: [7,5,1,8,3,6,0,9,4,2] -> dizisinin binary search tree aşamalarını yazınız.
+
+         7
+        / \
+       5   8
+      / \   \
+     1   6   9
+    / \
+   0   3
+      / \
+     2   4
