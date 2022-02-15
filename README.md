@@ -28,7 +28,7 @@ Q1: [16,21,11,8,12,22] -> Merge Sort
 
 O(nlogn)
 
-## Binary-Search-Tree Proejct
+## Binary-Search-Tree Project
 Q1: [7,5,1,8,3,6,0,9,4,2] -> dizisinin binary search tree aşamalarını yazınız.
 
           7
